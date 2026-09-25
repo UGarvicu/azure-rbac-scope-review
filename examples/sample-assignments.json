@@ -1,0 +1,4 @@
+[
+  {"principalName":"platform-admin@example.invalid","principalType":"Group","roleDefinitionName":"Owner","scope":"/subscriptions/00000000-0000-0000-0000-000000000000"},
+  {"principalName":"app@example.invalid","principalType":"ServicePrincipal","roleDefinitionName":"Reader","scope":"/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/demo"}
+]
